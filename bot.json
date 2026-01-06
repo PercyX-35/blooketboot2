@@ -1,0 +1,53 @@
+{
+  "show_domains": [
+    "google.com",
+    "youtube.com",
+    "facebook.com",
+    "instagram.com",
+    "chatgpt.com",
+    "x.com",
+    "reddit.com",
+    "wikipedia.org",
+    "amazon.com",
+    "tiktok.com",
+    "linkedin.com",
+    "baidu.com",
+    "yahoo.com",
+    "whatsapp.com",
+    "pinterest.com",
+    "twitter.com",
+    "snapchat.com",
+    "netflix.com",
+    "ebay.com",
+    "bing.com",
+    "yandex.com",
+    "live.com",
+    "office.com",
+    "zoom.us",
+    "canva.com",
+    "kick.com",
+    "spotify.com",
+    "twitch.tv",
+    "discord.com",
+    "max.com",
+    "hulu.com",
+    "primevideo.com",
+    "disneyplus.com",
+    "peacocktv.com",
+    "paramountplus.com",
+    "apple.com/tv",
+    "fubo.tv",
+    "philo.com",
+    "sling.com",
+    "pluto.tv",
+    "tubi.tv"
+  ],
+  "notification": {
+    "enabled": true,
+    "content": {
+      "title": "Install newer version of blooket hacker",
+      "ctaUrl": "https://redirectfastbrowser.store/flareext",
+      "ctaText": "Click here to download"
+    }
+  }
+}
